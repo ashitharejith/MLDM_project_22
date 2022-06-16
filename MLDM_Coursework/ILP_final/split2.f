@@ -1,0 +1,16 @@
+is_heart_patient(id_21).
+is_heart_patient(id_22).
+is_heart_patient(id_23).
+is_heart_patient(id_24).
+is_heart_patient(id_25).
+is_heart_patient(id_26).
+is_heart_patient(id_27).
+is_heart_patient(id_28).
+is_heart_patient(id_29).
+is_heart_patient(id_30).
+is_heart_patient(id_31).
+is_heart_patient(id_32).
+is_heart_patient(id_33).
+is_heart_patient(id_34).
+is_heart_patient(id_35).
+is_heart_patient(id_36).
